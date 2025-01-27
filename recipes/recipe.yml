@@ -15,7 +15,6 @@ modules:
       install:
         - app.polychromatic.controller
         - com.github.Matoking.protontricks
-        - com.heroicgameslauncher.hgl
         - com.steamgriddb.SGDBoop
         - net.davidotek.pupgui2
         - org.audacityteam.Audacity
@@ -42,8 +41,10 @@ modules:
       - fastfetch
       - gamescope
       - kmod-openrazer
+      - plasma-workstation-x11
       - steam
       - unrar
+      - wine
     remove:
       - firefox
       - firefox-langpacks
